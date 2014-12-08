@@ -176,7 +176,7 @@ var projects = {
 	"Title":  "Web Develpement",
 	"Dates":   "2012",
 	"Description":  "Online tool for  input their data using ASP and Java",
-	"Image":["images/Portal.png",	"images/Portal1.png"
+	"Image":["images/Portal.PNG",	"images/Portal1.png"
 		]						
 	},
 	{
