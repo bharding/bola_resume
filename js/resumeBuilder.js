@@ -176,14 +176,14 @@ var projects = {
 	"Title":  "Web Develpement",
 	"Dates":   "2012",
 	"Description":  "Online tool for  input their data using ASP and Java",
-	"Image":["images/Portal.PNG",	"images/Portal1.png"
+	"Image":['images/Portal.PNG',	'images/Portal1.PNG'
 		]						
 	},
 	{
 	"Title":  "DATABASE DEVELOPMENT",
 	"Dates":   "2012",
 	"Description":"Excel VBA to allow user to retreive and enter data from database",
-	"Image": ["images/workbookVBA.png", "images/VBACODING.png"
+	"Image": ['images/workbookVBA.PNG', 'images/VBACODING.PNG'
 	]
 	}				
 ]
